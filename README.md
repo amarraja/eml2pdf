@@ -1,5 +1,9 @@
 # eml2pdf
 
+
+**Note: this is a completely vibe-coded tool as I couldn't find anything which did what I required. The remainder of this readme was written by Claude**
+
+
 A native macOS command-line tool that converts `.eml` emails into clean, paginated PDFs.
 It has no dependencies: MIME parsing is pure Swift, and rendering uses WebKit with the AppKit print system.
 
