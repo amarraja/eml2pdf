@@ -1,0 +1,43 @@
+Subject: Fwd: Original vendor quote
+From: =?utf-8?q?Zo=C3=AB?= Alvarez <zoe@example.com>
+To: Bob Smith <bob@example.com>
+Date: Wed, 15 Oct 2025 08:00:00 +0100
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7973880310477444807=="
+
+--===============7973880310477444807==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+FYI — forwarding the vendor quote.
+
+--===============7973880310477444807==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+Content-Disposition: attachment
+
+Subject: Original vendor quote
+From: Vendor <sales@vendor.example>
+To: =?utf-8?q?Zo=C3=AB?= Alvarez <zoe@example.com>
+Date: Mon, 13 Oct 2025 16:40:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5196651783069915492=="
+
+--===============5196651783069915492==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quote attached. Total: 1,200 EUR.
+
+--===============5196651783069915492==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="quote-4471.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKMSAwIG9iajw8Pj5lbmRvYmoKdHJhaWxlcjw8Pj4KJSVFT0YK
+
+--===============5196651783069915492==--
+
+--===============7973880310477444807==--
